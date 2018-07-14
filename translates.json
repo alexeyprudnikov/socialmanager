@@ -1,0 +1,66 @@
+{
+  "socialmedia_manager": {
+    "de": "SocialMedia Manager",
+    "en": "SocialMedia Manager"
+  }
+,
+  "benutzername": {
+    "de": "Benutzername",
+    "en": "User name"
+  }
+,
+  "passwort": {
+    "de": "Passwort",
+    "en": "Password"
+  }
+,
+  "anmelden": {
+    "de": "Anmelden",
+    "en": "Login"
+  }
+,
+  "abmelden": {
+    "de": "Abmelden",
+    "en": "Logout"
+  }
+,
+  "wechseln_zu": {
+    "de": "Wechseln zu:",
+    "en": "Switch to:"
+  }
+,
+  "anmeldung_fehlgeschlagen": {
+  "de": "Anmeldung fehlgeschlagen.<br />Ihre Login-Daten sind ungültig.",
+  "en": "Login failed.<br />Your login data is invalid."
+  }
+,
+  "anmeldung_nicht_moeglich": {
+    "de": "Anmeldung nicht möglich.<br />Die Galerie ist zur Zeit deaktiviert.",
+    "en": "Can not login.<br />The gallery is currently disabled."
+  }
+,
+  "es_ist_ein_fehler_aufgetreten": {
+    "de": "Es ist ein Fehler aufgetreten",
+    "en": "An error occurred"
+  }
+,
+  "es_wurden_keine_posts_gefunden": {
+    "de": "Es wurden keine Posts gefunden.",
+    "en": "No posts were found."
+  }
+,
+  "zugriff_verweigert": {
+    "de": "Zugriff verweigert.",
+    "en": "Access denied."
+  }
+,
+  "alle_posts": {
+    "de": "Alle Posts",
+    "en": "All posts"
+  }
+,
+  "neu": {
+    "de": "Neu",
+    "en": "New"
+  }
+}
