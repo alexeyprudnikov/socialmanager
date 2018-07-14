@@ -1,2 +1,2 @@
 
-Copyright (C) 2018 alexezprudnikov
+Copyright (C) 2018 alexeyprudnikov
