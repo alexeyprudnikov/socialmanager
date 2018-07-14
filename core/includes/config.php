@@ -5,7 +5,7 @@ define( "TEMPLATE_PATH", "templates/" );
 define( "PUBLIC_INCLUDE_PATH", "static/" );
 define( "STORAGE_PATH", "storage/" );
 
-define("BASE_URL", "http://socialmanager.int:8888/");
+#define("BASE_URL", "http://socialmanager.int/");
 
 // channel types
 define("CHANNEL_TYPE_YOUTUBE", 1);
