@@ -1,2 +1,3 @@
-#social media manager#
+# socialmanager
+# social media manager
 @author: alexeyprudnikov
